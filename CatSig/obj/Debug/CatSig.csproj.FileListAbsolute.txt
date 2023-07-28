@@ -1,0 +1,7 @@
+C:\Users\q.bodart\Desktop\CatSig\CatSig\bin\Debug\CatSig.exe.config
+C:\Users\q.bodart\Desktop\CatSig\CatSig\bin\Debug\CatSig.exe
+C:\Users\q.bodart\Desktop\CatSig\CatSig\bin\Debug\CatSig.pdb
+C:\Users\q.bodart\Desktop\CatSig\CatSig\obj\Debug\CatSig.csproj.AssemblyReference.cache
+C:\Users\q.bodart\Desktop\CatSig\CatSig\obj\Debug\CatSig.csproj.CoreCompileInputs.cache
+C:\Users\q.bodart\Desktop\CatSig\CatSig\obj\Debug\CatSig.exe
+C:\Users\q.bodart\Desktop\CatSig\CatSig\obj\Debug\CatSig.pdb
